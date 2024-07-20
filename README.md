@@ -6,7 +6,3 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshua-Repos&theme=tokyonight" alt="mystreak"/>
 
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center">
- 
