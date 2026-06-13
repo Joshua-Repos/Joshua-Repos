@@ -6,7 +6,7 @@ I'm a middle schooler who is interesting in the world of technology, specificall
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshua-Repos&theme=tokyonight" alt="mystreak"/>
 
-## Languages, Framworks, and Libraries I'm Learning
+## Languages, Frameworks, and Libraries I'm Learning
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
