@@ -2,6 +2,8 @@
 
 ### 👋 Hi, There
 
+> Check out my site: [https://joshua-repos.github.io/Personal-Website/](url) for more info
+
 I'm a middle schooler who is interesting in the world of technology, specifically computers and coding. I am constantly progressing and growing my skills.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshua-Repos&theme=tokyonight" alt="mystreak"/>
