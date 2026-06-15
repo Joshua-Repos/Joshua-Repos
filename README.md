@@ -1,6 +1,6 @@
 # Joshua-Repos
 
-###👋 Hi, There
+### 👋 Hi, There
 
 I'm a middle schooler who is interesting in the world of technology, specifically computers and coding. I am constantly progressing and growing my skills.
 
